@@ -1,10 +1,11 @@
-# ⚠️ This Repository Has Been Archived
+# LOCI-Card
 
-**This repository (`arko-sanyal-loci/loci-card`) is no longer maintained.**
-It was a byte-identical duplicate of the papers archive — all development
-happens at the canonical repo:
-
-## → [arko-sanyal-loci/loci-card-papers](https://github.com/arko-sanyal-loci/loci-card-papers)
+> **This repository is no longer maintained.**
+>
+> Papers and preprints have moved to **[arko-sanyal-loci/loci-card-papers](https://github.com/arko-sanyal-loci/loci-card-papers)**.
+>
+> For the memory engine implementation, see **[arko-sanyal-loci/LOCI-MEMORY-ENGINE](https://github.com/arko-sanyal-loci/LOCI-MEMORY-ENGINE)**.
 
 ---
-*Consolidated: November 2026 by Arko Sanyal (Billo Tech).*
+
+*[Billo Tech](https://billo.tech) · founded by [Arko Sanyal](https://github.com/arko-sanyal-loci)*
